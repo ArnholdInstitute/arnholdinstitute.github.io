@@ -7,7 +7,7 @@ The data science team at the [Arnhold Institute for Global Health](http://icahn.
 
 ### Chief Technology Officer
 
-<img style="float: left; margin-right: 5px" src="img/james.jpg">
+<img style="float: left; margin-right: 5px" src="https://github.com/ArnholdInstitute/arnholdinstitute.github.io/raw/master/img/james.jpg">
 
 Chief Technology Officer
 Dr. Faghmous is Assistant Professor in Population Health Science and Policy at the Icahn School of Medicine at Mount Sinai.
@@ -18,7 +18,7 @@ At University of Minnesota, Dr. Faghmous was a National Science Foundation (NSF)
 
 ### Lead Economist and Assistant Professor
 
-<img style="float: left; margin-right: 5px" src="img/aaron.jpg">
+<img style="float: left; margin-right: 5px" src="https://github.com/ArnholdInstitute/arnholdinstitute.github.io/raw/master/img/aaron.jpg">
 
 Aaron Baum is an economist at the Arnhold Institute for Global Health and an Assistant Professor at the Icahn School of Medicine. His research applies methods from empirical economics to quantify causal relationships. Aaron integrates impact evaluations and R&D on commercial viability into the Institute’s portfolio of work with a focus on value-based care models and data products.
 
@@ -34,7 +34,7 @@ Prior to his doctoral studies, Aaron was an MD/MSc candidate at the University o
 
 ### Data Scientist
 
-<img style="float: left; margin-right: 5px" src="img/patrick.jpg">
+<img style="float: left; margin-right: 5px" src="https://github.com/ArnholdInstitute/arnholdinstitute.github.io/raw/master/img/patrick.jpg">
 
 As Senior Data Analyst, Patrick is responsible for collecting, analyzing, understanding, and presenting data within the Arnold Institute for Global Health. Patrick works with the data science team and other members in the Institute to undertake research across a wide variety of topics in public health. He uses a wide variety of statistical tools: from descriptive analysis to deep learning. 
 
@@ -50,7 +50,7 @@ Patrick was born and raised in Melbourne, Australia, and is currently living in 
 
 ### Data Scientist
 
-<img style="float: left; margin-right: 5px" src="img/emily.jpg">
+<img style="float: left; margin-right: 5px" src="https://github.com/ArnholdInstitute/arnholdinstitute.github.io/raw/master/img/emily.jpg">
 
 Emilie Bruzelius is an Analyst at the Arnhold Institute for Global Health, and a doctoral student in Epidemiology at Columbia University. She is interested in the intersection of data science and social epidemiology—leveraging emerging technologies to tackle challenges in population health. 
 
@@ -58,7 +58,7 @@ Emilie’s current work uses high-variety data to explore social and environment
 
 ### Forward-Deployed Engineer
 
-<img style="float: left; margin-right: 5px" src="img/joe.jpg">
+<img style="float: left; margin-right: 5px" src="https://github.com/ArnholdInstitute/arnholdinstitute.github.io/raw/master/img/joe.jpg">
 
 Joseph Scarpa is a forward-deployed engineer at the Arnold Institute for Global Health. His work focuses on leveraging data analytics to inform health system design, identify high-risk and high-need patient subpopulations, and improve population health outcomes. 
 
@@ -73,7 +73,7 @@ Joseph’s PhD work focused on the genetic and molecular bases of sleep dysfunct
 
 ### Software Developer
 
-<img style="float: left; margin-right: 5px" src="img/matt.jpg">
+<img style="float: left; margin-right: 5px" src="https://github.com/ArnholdInstitute/arnholdinstitute.github.io/raw/master/img/matt.jpg">
 
 Matthew is a software developer at the Arnhold Institute for Global Health. He is responsible for both front-end and back-end software development, and works closely with a team of researchers, data scientists, and designers. His interests generally include machine learning, data mining, high-performance computing, concurrency, and parallelism. 
 
