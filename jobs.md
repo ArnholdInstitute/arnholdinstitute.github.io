@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Job Openings at The Arnhold Institute
+title: Openings
+subtitle: Job Openings at The Arnhold Institute
 ---
 
 TODO
