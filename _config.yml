@@ -23,7 +23,7 @@ description: Data Science @ AIGH
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutus"
   Projects: "projects"
   Openings: "jobs"
   Events: "events"
