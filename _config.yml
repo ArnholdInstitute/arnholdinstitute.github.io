@@ -25,6 +25,7 @@ description: Data Science @ AIGH
 navbar-links:
   About Us: "aboutme"
   Openings: "jobs"
+  Datasets: "datasets"
   Events: "events"
   Github: "https://github.com/ArnholdInstitute"
 
