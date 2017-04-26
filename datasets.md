@@ -9,8 +9,8 @@ subtitle: Datasets disseminated by the Arnhold Institute
 The [Environmental Working Group](http://www.ewg.org) publishes [data about drinking water contamination](http://www.ewg.org/tap-water/).  We've scraped this data and put it into a relational database.  The results can be found on our [Github page](https://github.com/ArnholdInstitute/National-Drinking-Water)
 
 <div class="row" style="display: flex; justify-content: center; align-items: center">
-	<a class="btn btn-primary disabled" href="#">
-		Download Data (Coming soon...)
+	<a class="btn btn-primary" href="https://data.world/arnholdinst/drinking-water-contaminations">
+		Download Data
 	</a>
 </div>
 
