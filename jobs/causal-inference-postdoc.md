@@ -3,7 +3,7 @@ layout: page
 title: Causal Inference Postdoctoral
 ---
 
-The Arnhold Institute seeks to reduce health inequities via innovative research and products. We have an opening for a causal inference postdoctoral scholar to combine machine learning and econometrics approaches to health data. The position will focus on the scholar's career development by developing and executing a rigorous research program and developing new collaborations across healthcare. We have access to very rich (and large) health datasets that can be a significant career development asset. While the program will depend on the candidate but we anticipate the position to require 50% research, 25% writing, 15% career development, and 10% travel.
+The Arnhold Institute seeks to reduce health inequities via innovative research and products. We have an opening for a **causal inference postdoctoral scholar** to combine machine learning and econometrics approaches to health data. The position will focus on the scholar's career development by developing and executing a rigorous research program and developing new collaborations across healthcare. We have access to very rich (and large) health datasets that can be a significant career development asset. While the program will depend on the candidate but we anticipate the position to require 50% research, 25% writing, 15% career development, and 10% travel.
 
 ## Responsibilities
 
